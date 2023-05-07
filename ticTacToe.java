@@ -1,5 +1,5 @@
 //A Java program to demonstrate the use of functions,
-// loops, conditionals, and variables in a familar game;
+// loops, conditionals, and variables in a familiar game;
 // Tic-Tac-Toe
     // The game has two players 'X' and 'O' who take turns 
     // selecting an area to place their marker. 

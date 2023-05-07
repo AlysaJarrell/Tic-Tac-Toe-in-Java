@@ -14,16 +14,13 @@ The game has two players 'X' and 'O' who take turns selecting an area to place t
 # Development Environment
 
 ## Tools
--Visual Studio Code
--Java; [Where I downloaded my Java package](https://www.oracle.com/java/technologies/downloads/#jdk20-windows)
+*Visual Studio Code
+*Java; [Where I downloaded my Java package](https://www.oracle.com/java/technologies/downloads/#jdk20-windows)
 
 ## Imports in my program:<br>
-Java.util.Arrays<br>
-    used to manipulate the array for the tic tac toe board<br>
-Java.util.Scanner<br>
-    used for user input<br>
-java.util.InputMismatchException<br>
-    used to verify the vaildity of the user's input<br>
+Java.util.Arrays -used to manipulate the array for the tic tac toe board<br>
+Java.util.Scanner -used for user input<br>
+java.util.InputMismatchException -used to verify the vaildity of the user's input<br>
 
 # Useful Websites
 

@@ -4,7 +4,7 @@ This program was created to demostrate my learning of Java; namely the use and s
 
 I wrote this Tic-Tac-Toe game because it easily uses functions, variables, conditionals and loops while having a result that is both fun and familar.
 
-Tic-Tac-Toe
+## Tic-Tac-Toe
 The game has two players 'X' and 'O' who take turns selecting an area to place their marker ('X' or 'O' respectively). The first one to get three in-a-row wins. If all spots are taken without someone getting three in-a-row, the game is a draw.
 
 
@@ -13,17 +13,17 @@ The game has two players 'X' and 'O' who take turns selecting an area to place t
 
 # Development Environment
 
-Tools
-Visual Studio Code
-Java [Where I downloaded my Java package](https://www.oracle.com/java/technologies/downloads/#jdk20-windows)
+## Tools
+-Visual Studio Code
+-Java; [Where I downloaded my Java package](https://www.oracle.com/java/technologies/downloads/#jdk20-windows)
 
-Imports in my program:<br>
+## Imports in my program:<br>
 Java.util.Arrays<br>
-- used to manipulate the array for the tic tac toe board<br>
+    used to manipulate the array for the tic tac toe board<br>
 Java.util.Scanner<br>
-- used for user input<br>
+    used for user input<br>
 java.util.InputMismatchException<br>
-- used to verify the vaildity of the user's input<br>
+    used to verify the vaildity of the user's input<br>
 
 # Useful Websites
 

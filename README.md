@@ -14,8 +14,8 @@ The game has two players 'X' and 'O' who take turns selecting an area to place t
 # Development Environment
 
 ## Tools
-*Visual Studio Code
-*Java; [Where I downloaded my Java package](https://www.oracle.com/java/technologies/downloads/#jdk20-windows)
+Visual Studio Code <br>
+Java; [Where I downloaded my Java package](https://www.oracle.com/java/technologies/downloads/#jdk20-windows)
 
 ## Imports in my program:<br>
 Java.util.Arrays -used to manipulate the array for the tic tac toe board<br>
